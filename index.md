@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/04/27/voicetune-02_cropped.png"
   navigation:
-  - link: "/"
+  - link: "#about"
     link_text: ABOUT
   - link: "#swap"
     link_text: PRODUCT
@@ -28,9 +28,18 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: LEARN MORE
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2022/04/27/screenshot_tts-app_small.png"
     alt_text: Product Shot
-  background_image: "/uploads/2022/04/27/background-cyan.png"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  slug: about
+  headline: Who we are
+  content: We are a group of people passionate for Natural Language Technologies.
+    We are crazy to make things work and to bring the best AI voice solutions for
+    your needs.<br>VoiceTune is a spin-out from Trinity College Dublin. Our team includes
+    researchers with more than 10 years of research experience in speech signal processing,
+    natural language processing, and machine learning.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -53,14 +62,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
