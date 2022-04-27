@@ -50,6 +50,16 @@ page_sections:
     in contact with us to know more</p></li><li><p>Multiple Languages: English, Italian,
     Spanish and custom voices in more languages upon request</p></li><li><p>Easy to
     use with VoiceTune's web interface or API</p></li></ul>"
+- template: detail-content-voicetune
+  headline: PRODUCT
+  content: |-
+    ### **Voices for All Needs**
+
+    * Very fast speech synthesis engine: Faster than real-time
+    * Library English voices in multiple accents: Many native accents from different countries and regions
+    * Custom/Brand voices built for you: We build new AI voices that meet your requirements, get in contact with us to know more
+    * Multiple Languages: English, Italian, Spanish and custom voices in more languages upon request
+    * Easy to use with VoiceTune's web interface or API
 - template: content-feature
   block: feature-1
   media_alignment: Left
