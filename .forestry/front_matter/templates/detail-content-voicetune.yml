@@ -1,4 +1,18 @@
 ---
 label: detail-content-voicetune
 hide_body: true
-fields: []
+fields:
+- name: headline
+  type: text
+  config:
+    required: false
+  label: HEADLINE
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: CONTENT
