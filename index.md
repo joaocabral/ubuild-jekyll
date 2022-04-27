@@ -8,16 +8,16 @@ page_sections:
   logo: "/uploads/2022/04/27/voicetune-02_cropped.png"
   navigation:
   - link: "/"
-    link_text: About
+    link_text: ABOUT
   - link: "#swap"
-    link_text: Product
+    link_text: PRODUCT
   - link: "#customize"
-    link_text: Features
+    link_text: FEATURES
   - link: "#blocks"
-    link_text: Contact
+    link_text: CONTACT
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Email
+    button_text: EMAIL
 - template: hero-banner-w-image
   block: hero-2
   slug: features
