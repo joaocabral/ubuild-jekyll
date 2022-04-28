@@ -32,7 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
   - detail-content-voicetune
-  - text-only-hero-banner-voicetune
 pages:
 - index.md
 - voicetune.md
