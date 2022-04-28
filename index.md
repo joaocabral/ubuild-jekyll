@@ -60,11 +60,7 @@ page_sections:
     * Custom/Brand voices built for you: We build new AI voices that meet your requirements, get in contact with us to know more
     * Multiple Languages: English, Italian, Spanish and custom voices in more languages upon request
     * Easy to use with VoiceTune's web interface or API
-  block:
-  - template: text-1
-    block: text-1
-    headline: ''
-    content: ''
+  block: text-1
 - template: content-feature
   block: feature-1
   media_alignment: Left
