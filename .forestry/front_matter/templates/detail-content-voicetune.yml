@@ -16,3 +16,11 @@ fields:
     schema:
       format: markdown
   label: CONTENT
+- name: block
+  type: blocks
+  label: Block
+  template_types:
+  - text-1
+  config:
+    min: 
+    max: 
