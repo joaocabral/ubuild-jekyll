@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2022/04/27/screenshot_tts-app_small.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: 1-column-text
   block: one-column-1
   slug: about
