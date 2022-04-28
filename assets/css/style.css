@@ -95,7 +95,7 @@ p {
 }
 
 .button.primary {
-	background-color: #ffcb3c;
+	background-color: pink;
 	color: #fff
 }
 
@@ -106,7 +106,7 @@ p {
 
 .button.secondary {
 	background-color: transparent;
-	border: 1.5px solid #ffcb3c
+	border: 1.5px solid pink
 }
 
 .button.small {
@@ -184,7 +184,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a {
-	color: #ffcb3c
+	color: pink
 }
 
 .block-header-1 .nav-item a {
@@ -197,7 +197,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a:hover {
-	color: #ffcb3c
+	color: pink
 }
 
 .block-header-1 .nav-item:last-of-type {
@@ -237,7 +237,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a {
-	color: #ffcb3c
+	color: pink
 }
 
 .block-header-2 .nav-item a {
@@ -250,7 +250,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a:hover {
-	color: #ffcb3c
+	color: pink
 }
 
 .block-header-2 .nav-item:last-of-type {
@@ -280,7 +280,7 @@ input.inverted::placeholder {
 }
 
 .block-hero-1 {
-	--bg: #ffcb3c;
+	--bg: pink;
 	--text: #fff;
 	display: -ms-flexbox;
 	display: flex;
@@ -303,7 +303,7 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 {
-	--bg: #ffcb3c;
+	--bg: pink;
 	--text: #fff;
 	-ms-flex-direction: column;
 	flex-direction: column;
@@ -470,7 +470,7 @@ input.inverted::placeholder {
 .block-cta-bar {
 	padding: 32px;
 	padding: 2rem;
-	background: #ffcb3c;
+	background: pink;
 	color: #fff
 }
 
