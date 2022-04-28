@@ -170,8 +170,8 @@ input.inverted::placeholder {
 }
 
 .block-header-1--logo img {
-	max-height: 24px;
-	max-height: 1.5rem
+	max-height: 48px;
+	max-height: 3rem
 }
 
 .block-header-1 .nav-item {
@@ -453,6 +453,8 @@ input.inverted::placeholder {
 	margin: 32px;
 	margin: 2rem;
 	text-align: center
+DUCT
+Voices for All Needs
 }
 
 .block-three-column-1 .column h3 {
