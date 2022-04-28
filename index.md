@@ -50,7 +50,7 @@ page_sections:
     in contact with us to know more</p></li><li><p>Multiple Languages: English, Italian,
     Spanish and custom voices in more languages upon request</p></li><li><p>Easy to
     use with VoiceTune's web interface or API</p></li></ul>"
-  slug: ''
+  slug: product
 - template: content-feature
   block: feature-1
   media_alignment: Left
