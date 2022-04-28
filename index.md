@@ -31,6 +31,12 @@ page_sections:
     image: "/uploads/2022/04/27/screenshot_tts-app_small.png"
     alt_text: Product Shot
   background_image: ''
+- template: text-only-hero-banner-voicetune
+  block:
+  - template: text-only-hero-banner
+    block: hero-1
+    heading: "<strong>Voices for All Needs</strong>"
+  content: ''
 - template: 1-column-text
   block: one-column-1
   slug: about
