@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "#about"
     link_text: ABOUT
-  - link: "#swap"
+  - link: "#product"
     link_text: PRODUCT
   - link: "#customize"
     link_text: FEATURES
