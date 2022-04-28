@@ -303,7 +303,7 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 {
-	--bg: pink;
+	--bg: CornFlowerBlue;
 	--text: #fff;
 	-ms-flex-direction: column;
 	flex-direction: column;
