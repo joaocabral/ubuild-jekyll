@@ -86,6 +86,5 @@ page_sections:
   headline: This is a test
   content: "<p>Here is some text</p>"
   slug: ''
-published: false
 
 ---
