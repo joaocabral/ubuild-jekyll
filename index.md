@@ -17,7 +17,7 @@ page_sections:
     link_text: CONTACT
   cta:
     url: mailto:sales@voicetune.ai
-    button_text: EMAIL
+    button_text: Contact Us
 - template: hero-banner-w-list
   block: hero-list
   slug: features
