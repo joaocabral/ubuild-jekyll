@@ -493,11 +493,11 @@ input.inverted::placeholder {
 	flex: 0 0 calc(100% - 4rem);
 	margin: 32px;
 	margin: 2rem;
-	text-align: center
 }
 
 .block-one-column-1 .column h2 {
 	margin-bottom: 16px;
+	text-align: center;
 	margin-bottom: 1rem
 }
 
