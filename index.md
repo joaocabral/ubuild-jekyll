@@ -32,10 +32,7 @@ page_sections:
     alt_text: Product Shot
   background_image: ''
 - template: text-only-hero-banner-voicetune
-  block:
-  - template: text-only-hero-banner
-    block: hero-1
-    heading: "<strong>Voices for All Needs</strong>"
+  block: hero-1
   content: ''
 - template: 1-column-text
   block: one-column-1
