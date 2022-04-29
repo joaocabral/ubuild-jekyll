@@ -16,7 +16,7 @@ page_sections:
   - link: "#contact"
     link_text: CONTACT
   cta:
-    url: mailto:sales@voicetune.ai
+    url: mailto:enquire@voicetune.ai
     button_text: Contact Us
 - template: hero-banner-w-list
   block: hero-list
@@ -64,6 +64,6 @@ page_sections:
   slug: features
 - template: simple-footer
   block: footer-1
-  content: 'Contact us at: sales@voicetune.ai'
+  content: 'Contact us at: enquire@voicetune.ai'
 
 ---
