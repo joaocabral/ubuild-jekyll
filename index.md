@@ -16,7 +16,7 @@ page_sections:
   - link: "#contact"
     link_text: CONTACT
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    url: mailto:sales@voicetune.ai
     button_text: EMAIL
 - template: hero-banner-w-list
   block: hero-list
