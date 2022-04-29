@@ -14,7 +14,7 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
       <div class="column media">
         <ul>
           {% for item in section.items %}
-          <li>{{ item }}</li>
+          <li>{{ item.content }}</li>
           {% endfor %}
         </ul>
       </div>
