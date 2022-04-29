@@ -85,5 +85,15 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 1-column-text
+  block: one-column-1
+  content: "<h3></h3><ul><li><p>Very fast speech synthesis engine: Faster than real-time</p></li><li><p>Library
+    English voices in multiple accents: Many native accents from different countries
+    and regions</p></li><li><p>Custom/Brand voices built for you: We build new AI
+    voices that meet your requirements, get in contact with us to know more</p></li><li><p>Multiple
+    Languages: English, Italian, Spanish and custom voices in more languages upon
+    request</p></li><li><p>Easy to use with VoiceTune's web interface or API</p></li></ul>"
+  headline: Voices for All Needs
+  slug: product
 
 ---
