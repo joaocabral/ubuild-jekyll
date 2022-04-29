@@ -11,7 +11,7 @@ page_sections:
     link_text: ABOUT
   - link: "#product"
     link_text: PRODUCT
-  - link: "#customize"
+  - link: "#features"
     link_text: FEATURES
   - link: "#blocks"
     link_text: CONTACT
