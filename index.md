@@ -13,7 +13,7 @@ page_sections:
     link_text: PRODUCT
   - link: "#features"
     link_text: FEATURES
-  - link: "#blocks"
+  - link: "#contact"
     link_text: CONTACT
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
@@ -64,6 +64,6 @@ page_sections:
   slug: features
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: 'Contact us at: sales@voicetune.ai'
 
 ---
