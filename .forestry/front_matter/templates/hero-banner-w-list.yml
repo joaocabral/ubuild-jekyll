@@ -1,5 +1,5 @@
 ---
-label: hero-banner-w-image
+label: hero-banner-w-list
 hide_body: false
 fields:
 - type: text
