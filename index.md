@@ -24,12 +24,16 @@ page_sections:
   headline: Expressive and Natural Sounding AI Voices
   content: ''
   items:
-    - content: Use custom AI Voices that sound like your preferred voice talents
-    - content: Tune AI voices to sound like the characters or roles you need
-    - content: Generate speech with emotions with the same expressiveness of an actor
-    - content: Generate any amount of speech you need, much faster than recordings
-    - content: Use AI voices in regional accents and multiple languages
+  - content: Use custom AI Voices that sound like your preferred voice talents
+  - content: Tune AI voices to sound like the characters or roles you need
+  - content: Generate speech with emotions with the same expressiveness of an actor
+  - content: Generate any amount of speech you need, much faster than recordings
+  - content: Use AI voices in regional accents and multiple languages
   background_image: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 1-column-text
   block: one-column-1
   slug: about
@@ -80,10 +84,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: detail-content
-  block: text-1
-  headline: This is a test
-  content: "<p>Here is some text</p>"
-  slug: ''
 
 ---
