@@ -13,7 +13,7 @@ page_sections:
     link_text: PRODUCT
   - link: "#features"
     link_text: FEATURES
-  - link: "#contact"
+  - link: "#features"
     link_text: CONTACT
   cta:
     url: mailto:enquire@voicetune.ai
