@@ -13,7 +13,7 @@ page_sections:
     link_text: PRODUCT
   - link: "#features"
     link_text: FEATURES
-  - link: "#features"
+  - link: "#contact"
     link_text: CONTACT
   cta:
     url: mailto:enquire@voicetune.ai
@@ -64,5 +64,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: 'Contact us at: enquire@voicetune.ai'
+  slug: contact
 
 ---
