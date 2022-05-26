@@ -456,7 +456,8 @@ input.inverted::placeholder {
 	.block-hero-list .column.text {
 		-ms-flex: 0 0 55%;
 		flex: 0 0 55%;
-		text-align: left
+		text-align: left;
+    padding-right: 2rem;
 	}
 
 	.block-hero-list .column.media {
