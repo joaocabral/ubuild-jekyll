@@ -39,7 +39,7 @@ page_sections:
   slug: about
   headline: Who we are
   content: We are a group of people passionate for Natural Language Technologies.
-    We are crazy to make things work and to bring the best AI voice solutions for
+    We are crazy about making things work and bringing you the best AI voice solutions for
     your needs.<br>VoiceTune is a spin-out from Trinity College Dublin. Our team includes
     researchers with more than 10 years of research experience in speech signal processing,
     natural language processing, and machine learning.
