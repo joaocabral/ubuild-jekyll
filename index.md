@@ -55,8 +55,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   content: "<ul><li><p>Tune the voice to the character or role you need in your production</p></li><li><p>AI
-    voices with many speech emotions so you can have all the expressive richness you
-    need</p></li><li><p>Tune the pitch, pace, and pauses</p></li></ul>"
+    voices with speech emotions so you can have the expressive richness you need</p></li><li><p>Tune
+    the pitch, pace, and pauses</p></li></ul>"
   headline: Fine-tune Expressiveness and Speaker Features
   slug: features
 - template: simple-footer
