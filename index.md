@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: VoiceTune
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -39,18 +39,17 @@ page_sections:
   slug: about
   headline: Who we are
   content: We are a group of people passionate for Natural Language Technologies.
-    We are crazy about making things work and bringing you the best AI voice solutions for
-    your needs.<br>VoiceTune is a spin-out from Trinity College Dublin. Our team includes
-    researchers with more than 10 years of research experience in speech signal processing,
-    natural language processing, and machine learning.
+    We are crazy about making things work and bringing you the best AI voice solutions
+    for your needs.<br>VoiceTune is a spin-out from Trinity College Dublin. Our team
+    includes researchers with more than 10 years of research experience in speech
+    signal processing, natural language processing, and machine learning.
 - template: 1-column-text
   block: one-column-1
   content: "<ul><li><p>Very fast speech synthesis engine: Faster than real-time</p></li><li><p>Library
-    English voices in multiple accents: Many native accents from different countries
-    and regions</p></li><li><p>Custom/Brand voices built for you: We build new AI
-    voices that meet your requirements, get in contact with us to know more</p></li><li><p>Multiple
-    Languages: English, Italian, Spanish and custom voices in more languages upon
-    request</p></li><li><p>Easy to use with VoiceTune's web interface or API</p></li></ul>"
+    English voices in multiple accents</p></li><li><p>Custom/Brand voices built for
+    you: We build new AI voices that meet your requirements, get in contact with us
+    to know more</p></li><li><p>Custom voices in multiple languages</p></li><li><p>Easy
+    to use with VoiceTune's web app or API</p></li></ul>"
   headline: Voices for All Needs
   slug: product
 - template: 1-column-text
