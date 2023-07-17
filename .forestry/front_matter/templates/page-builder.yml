@@ -31,5 +31,7 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+  - detail-content-voicetune
 pages:
 - index.md
+- voicetune.md
