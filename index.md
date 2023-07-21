@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: VoiceTune
-date: 2017-11-22T23:00:00.000+00:00
+date: 2023-07-01T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -61,7 +61,9 @@ page_sections:
   slug: features
 - template: simple-footer
   block: footer-1
-  content: 'Contact us at: enquire@voicetune.ai'
+  content: |
+    <p> Contact us at: <a href="mailto:enquire@voicetune.ai">enquire@voicetune.ai</a> </p>
+    <p> <a href="terms">Terms of Use</a> </p>
   slug: contact
 
 ---
