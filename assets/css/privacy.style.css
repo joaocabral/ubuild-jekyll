@@ -1,0 +1,97 @@
+body {
+  counter-reset: header;
+}
+h3 {
+  margin-top: 0.7em;
+  counter-increment: header;
+}
+h3::before {
+  content: counter(header, decimal) ".";
+  width: 2em;
+}
+div.container {
+  --box-border-width: 1px;
+  --marker-width: 2.3em;
+}
+div.container a {
+  font-weight: bold;
+  text-decoration: none;
+}
+div.box {
+  border: solid var(--box-border-width);
+  padding: 5px;
+  margin-top: 0.5em;
+}
+h4 {
+  color: red;
+}
+h4:not(:first-of-type) {
+  margin-top: 0.5em;
+}
+p {
+  margin-top: 0.5em;
+}
+table {
+  margin-top: 1em;
+}
+ul {
+  position: relative;
+  inline-size: calc(100% - var(--marker-width));
+  left: var(--marker-width);
+}
+ul li::marker {
+  /* fixme: make work with --marker-width */
+  content: "\2013        ";
+}
+ol {
+  display: table;
+  counter-reset: item;
+}
+ol.lower-roman {
+  list-style: none;
+  position: relative;
+  left: 0em;
+}
+ol.lower-roman > li {
+  display: table-row;
+  counter-increment: item;
+}
+ol.lower-roman > li:before {
+  display: table-cell;
+  width: var(--marker-width);
+  margin-right: 0.5em;
+  content: "(" counter(item, lower-roman) ")"
+}
+a, li, td, dd /*,dt*/ {
+  color: #666;
+}
+table {
+  border-collapse: collapse;
+  border: solid var(--box-border-width)
+}
+dl {
+  display: flex;
+  flex-flow: row wrap;
+  border: solid #333;
+  border-width: 1px 1px 0px;
+}
+dt {
+  flex-basis: 30%;
+  text-align: right;
+}
+th, td {
+  padding: 2px 5px;
+  border: solid var(--box-border-width);  
+}
+dt {
+  padding: 2px 5px;
+  border-bottom: solid var(--box-border-width);
+  border-right: solid var(--box-border-width);
+}
+dd {
+  flex-basis: 70%;
+  flex-grow: 1;
+  margin: 0;
+  padding: 2px 5px;
+  border-bottom: solid var(--box-border-width);
+}
