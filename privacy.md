@@ -340,5 +340,6 @@ page_sections:
   content: |
     <p> Contact us at: <a href="mailto:enquire@voicetune.ai">enquire@voicetune.ai</a> </p>
     <p> <a href="terms">Terms of Use</a> </p>
+    <p> <a href="privacy">Privacy Policy</a> </p>
   slug: contact
 ...
